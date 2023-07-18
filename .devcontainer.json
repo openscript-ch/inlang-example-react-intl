@@ -1,0 +1,4 @@
+{
+	"name": "inlang-example-react-intl",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye"
+}
